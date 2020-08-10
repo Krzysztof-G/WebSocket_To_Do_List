@@ -1,0 +1,8 @@
+{
+  "name": "WebSocket_To_Do_List",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Krzysztof-G/WebSocket_To_Do_List.git",
+  "author": "Krzysztof Gumuła <k.gumula@icloud.com>",
+  "license": "MIT"
+}
